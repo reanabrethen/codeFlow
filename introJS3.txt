@@ -17,4 +17,4 @@ Hi
 Hi!
 
 // What is the value of surprisedGreeting after line 5 executes?
-Oh! Hello.
+Oh! Hi.
